@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iGIo//n0mhf/fSwNafEbQLqBKiObDxNNGj28DNj6LM0=",
+  "Source": "FibonacciRestApi",
+  "BasePath": "_content/FibonacciRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
